@@ -1,3 +1,3 @@
-# print("welcome to python")
+# print("welcome to pythn")
 
 print("Welcome To Python3")
