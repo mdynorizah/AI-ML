@@ -1,0 +1,2 @@
+list_fruits=('Apple','Orange','Mango','Cherry','Kiwi','StrawBerry,',Banana')
+for fr in list_fruits:
